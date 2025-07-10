@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* all place set class link */
+
+.primary-color-blue{
+    color: blue;
+}
+
+.google-fonts-inter{
+     font-family: "Inter", sans-serif;
+}
+
+.btn{
+    background-color: blue;
+    font-family: "Raleway", sans-serif;
+    border-radius: 10px;
+    border: none;
+    font-weight: 600;
+    color: white;
+}
+
+.btn:hover{
+    background-image: linear-gradient(rgb(95, 95, 241),rgb(115, 115, 234));
+}
+
+/* =========================================================== */
+
+
+/* header starts here */
+header{
+    background-image: url(./Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    height: 670px;
+    width: 100%;
+}
+
+.nav-bar{
+    background-color: aqua;
+    width: 70%;
+    height: 80px;
+    margin: 0px auto 158px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.h1-fonts{
+    font-size: 50px;
+}
+
+.button{
+    height: 35px;
+    width: 150px;
+    font-size: 20px;
+}
+
+
+
+/* --------nav-bar start here------ */
+
+
+
+
+/* header ends here */
+
+/* =========================================================== */
+
+
+
+/* main starts here */
+
+
+
+/* main ends here */
+/* =========================================================== */
+
+/* footer starts here */
+
+
+/* footer ends here */
+
+/* =========================================================== */
