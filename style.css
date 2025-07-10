@@ -21,6 +21,7 @@
     border: none;
     font-weight: 600;
     color: white;
+    cursor: pointer;
 }
 
 .btn:hover{
@@ -36,10 +37,11 @@ header{
     background-repeat: no-repeat;
     height: 670px;
     width: 100%;
+    margin-bottom: 80px;
 }
 
 .nav-bar{
-    background-color: aqua;
+    /* background-color: aqua; */
     width: 70%;
     height: 80px;
     margin: 0px auto 158px auto;
@@ -58,23 +60,133 @@ header{
     font-size: 20px;
 }
 
+/* ++++++++++++++++++++++++++ */
+.heading-button{
+    height: 600px;
+    width: 100%;
+    /* background-color: chartreuse; */
+    margin: 100px auto 100px auto;
+    
+}
+.heading{
+    /* background-color: aqua; */
+    width: 80%;
+    margin:0px auto 37px auto;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
 
+.Buttno{
+    background-color: azure;
+    height: 40px;
+   font-size: 20px;
+    margin: 0 auto;
+}
+.heading-button .buttono{
+   padding: 10px 30px;
+}
 
 /* --------nav-bar start here------ */
-
-
-
+  
 
 /* header ends here */
 
 /* =========================================================== */
 
-
+main{
+    max-width:  85%;
+    /* background-color: cornflowerblue; */
+    margin: 0 auto;
+}
 
 /* main starts here */
 
+/*action section starts here  */
+.section-see-2020{
+    background-color: rgb(185, 179, 179);
+    /* box-shadow: 1px 1px 3px rgb(206, 182, 182); */
+    border-radius: 20px;
+    height: 400px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+    margin-bottom: 50px;
+    
+  }
+  
+  .div-see p{
+    margin-top: 15px;
+    
+  }
 
+  .div-see button{
+    margin-top: 20px;
+    padding: 10px 40px;
+  }
 
+  .image .imgh{
+      border-radius: 10px;
+       height: 300px;
+       width: 300p;
+  }
+
+  /* action section ends here */
+
+  /* Production users Section starts here  */
+.sectionf{
+    margin-bottom: 100px;
+}
+.main{
+    background-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.productive-section{
+    /* background-color: rgba(121, 191, 248, 0.815); */
+    height: 400px;
+    border-radius: 10px;
+     /* display: flex;
+    justify-content: s;
+    align-items: center; */
+    
+}
+
+.centered-title{
+    /* background-color: darkmagenta; */
+}
+.three-data-subtitle{
+    /* background-color: darkcyan; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px auto 0 auto;
+}
+ .centered-title{
+   text-align: center;
+   font-size: 25px;
+   margin-top: 130px;
+ }
+.three-data-subtitle div{
+    
+    padding: 20px 60px;
+}
+
+.three-data-subtitle h1{
+    font-size: 80px;
+    color: dodgerblue;
+}
+.three-data-subtitle p{
+    font-size: 15px;
+    text-align: center;
+}
+  /*  Production users Section ends here */
 /* main ends here */
 /* =========================================================== */
 
