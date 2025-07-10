@@ -158,9 +158,9 @@ main{
     
 }
 
-.centered-title{
-    /* background-color: darkmagenta; */
-}
+/*.centered-title{
+     background-color: darkmagenta; 
+}*/
 .three-data-subtitle{
     /* background-color: darkcyan; */
     display: flex;
@@ -187,6 +187,74 @@ main{
     text-align: center;
 }
   /*  Production users Section ends here */
+
+ /* User's Feedback Section stats here   */
+.user-feddback-secton{
+    /* background-color: darkseagreen; */
+    height: 400px;
+    padding: 25px;
+    margin-bottom: 100px;
+    /* margin: 50px auto; */
+}
+.user-contant{
+    margin: 40px auto;
+    /* background-color: blue; */
+   
+    margin-top: 50px;
+}
+.card{
+    background-color: rgb(249, 253, 251);
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px rgb(109, 105, 105);
+    margin: 40px auto;
+    padding: 15px;
+
+}
+.card-down img{
+    margin-top: 24px;
+    margin-top: 24px;
+}
+.card-down h4{
+    margin-top: 20px;
+    /* background-color: rgb(26, 45, 84); */
+    font-size: 20px;
+}
+.card-down p{
+    margin-top:15px;
+    margin-bottom: 15px;
+    /* background-color: cornflowerblue; */
+    opacity: 0.6;
+}
+.photo{
+    display: flex;
+    gap: 5px;
+    /* background-color: rgb(234, 155, 58); */
+    
+
+}
+.women-img{
+    margin-bottom: 10px;
+    display: flex;
+    /* background-color: bisque; */
+    width: 300px;
+    gap: 10px;
+    margin-top: 10px;
+    
+   
+}
+
+.womenn{
+ 
+    border-radius: 50%;
+    border: 2px 2px 2px red;
+    padding: 2px;
+}
+.left P{
+    opacity: .6;
+}
+/* < User's Feedback Section ends here   */
+
+
 /* main ends here */
 /* =========================================================== */
 
