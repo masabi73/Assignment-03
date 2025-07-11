@@ -201,7 +201,7 @@ main{
  /* User's Feedback Section stats here   */
 .user-feddback-secton{
     /* background-color: darkseagreen; */
-    height: 400px;
+    height: 450px;
     padding: 25px;
     margin-bottom: 100px;
     /* margin: 50px auto; */
@@ -271,10 +271,11 @@ main{
 
 .ready{
     max-width: 100%;
-    height: 700px;
+    height: 550px;
     border-radius: 10px;
-   background-color: #bab8ff;
-    box-shadow: 3px 3px 2px black;
+    border: .7px solid black;
+   /* background-color: #bab8ff; */
+    box-shadow: 1px px 2px black;
     display: flex;
     justify-content: center;
     align-items: center;
